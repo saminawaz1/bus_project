@@ -61,6 +61,6 @@ void login(){
     if((userid[0]==username[0])&&(passWord[0]==pass[0])){
         printf("login successfull %s\n",username);
     }else{
-        printf("invaili password");
+        printf("invaili password\n");
 }
 }
